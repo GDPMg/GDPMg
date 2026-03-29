@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Guilherme 👋🏼
 
 🎓 Estudante de Engenharia de Software na FIAP <br/>
-🔧 Curso Rockseat para ser Full-Stack <br/>
 🗣️ Bilíngue: Inglês e Português <br/>
 📚 Constantemente aprendendo e buscando desafios inovadores <br/>
 
